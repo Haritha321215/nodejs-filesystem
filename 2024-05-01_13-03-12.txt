@@ -1,0 +1,2 @@
+This is current timestamp to write to the file: 2024-05-01_13-03-12
+This is additional content with current time stamp: 2024-05-01_13-03-41
